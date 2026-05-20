@@ -1,0 +1,2 @@
+class TradingBotError(Exception):
+    pass
